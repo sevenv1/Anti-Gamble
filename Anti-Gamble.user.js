@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025.09.28
 // @description  Prevent access to known gambling websites
-// @author       You
+// @author       sevenv1
 // @match        *://*.rainbet.com/*
 // @match        *://*.rainbet.us/*
 // @match        *://*.stake.com/*
