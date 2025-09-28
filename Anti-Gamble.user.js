@@ -4,6 +4,7 @@
 // @version      2025.09.28
 // @description  Prevent access to known gambling websites
 // @author       sevenv1
+// @license      MIT
 // @match        *://*.rainbet.com/*
 // @match        *://*.rainbet.us/*
 // @match        *://*.stake.com/*
