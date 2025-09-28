@@ -30,6 +30,7 @@
 // @match        *://*.gamdom.com/*
 // @match        *://*.1win-official.com/*
 // @match        *://*.1win.com/*
+// @icon         https://raw.githubusercontent.com/sevenv1/Anti-Gamble/refs/heads/main/icon.png
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
