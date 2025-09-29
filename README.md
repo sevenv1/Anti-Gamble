@@ -1,6 +1,6 @@
 # Anti-Gamble, stop gambling quick.
 
-A Tampermonkey userscript that blocks access to **Rainbet.com**, helping users avoid gambling sites. Each time the page is accessed, it displays a motivational anti-gambling message to encourage better habits.
+A Tampermonkey userscript that blocks access to gambling sites, helping users avoid gambling sites. Each time the page is accessed, it displays a motivational anti-gambling message to encourage better habits.
 
 ## Features
 
